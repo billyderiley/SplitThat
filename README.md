@@ -1,8 +1,10 @@
  <img width="451" alt="image" src="https://user-images.githubusercontent.com/74537403/126957352-fac147a9-062f-48e9-b459-c140fdce7056.png">
 
+SplitThat is an application designed to ease the process of splitting the cost of a service between a group of individuals, using a vote system that each user enters to calculate their contribution to the cost.
+
 Throughout the design process, the PEP8 style guide was used
 
-Brief instructions on how to run the program:
+Running Insteructions:
 
 Run the program to the be taken to the main_menu() method. From there, you have the choice of registering an account as a new user, logging into a previously created account, or simply continue as a guest without registering.
 
