@@ -31,8 +31,7 @@ Splitthat_classes.py file is where the majority of the object-oriented code lies
     
 The bills, rentals and project text files are required to store the ‘splits ‘created by the user, whilst the users file stores the user information. This allows logging in, saving of progress, and reloading of information where the user previously left the application
 
-
-The Code:
+<img width="451" alt="image" src="https://user-images.githubusercontent.com/74537403/126962897-0dcbc619-46c4-4abe-a059-a7df74a281eb.png">
 <img width="170" alt="image" src="https://user-images.githubusercontent.com/74537403/126958390-51bdb57d-236c-4b7c-b4f6-5269edeae638.png">
 
 Main_menu() is the first method to called and the first screen that the user sees, allowing navigation to different areas of the application. The user can proceed to login, register, or proceed as a Guest (use without login/registration)
