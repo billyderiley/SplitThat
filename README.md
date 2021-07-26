@@ -3,6 +3,7 @@
 Throughout the design process, the PEP8 style guide was used
 
 Brief instructions on how to run the program:
+
 Run the program to the be taken to the main_menu() method. From there, you have the choice of registering an account as a new user, logging into a previously created account, or simply continue as a guest without registering.
 
 Files:
